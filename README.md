@@ -1,10 +1,7 @@
 - # sobre mim
 - 👋 Ola, eu sou @VTK
+- :+1: meu email de contato é kuhnen.vitor@escola.pr.gov.br
 - 👀 Estou interessado em acabar os estudos...
 - 🌱 Atualmente estou aprendendo a programar...
 
 
-<!---
-KHBGR7V/KHBGR7V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
